@@ -1,0 +1,132 @@
+## Western Blot Protocol with SCFA Stress:
+
+* Gel (stored in 4C) and sample preparation (stored in -20C) should be done ahead of time; preferably a day before.
+10% Polyacrylamide Gel Recipe (makes 2 gels)
+
+Materials:
+For resolving gel a.k.a separating gel (poured first)
+  - *Use the red-lid tubes (50mL), label as separating gel; non-sterile process
+  - 12 mL H2O
+  - 10 mL 30% acrylamide (in 4C)
+  - 7.5 mL resolving buffer (1.5M Tris, pH 8.8) *LOWER TRIS*
+  - 300 uL 10% SDS
+  - 100uL 10% APS
+  - 28 uL TEMED
+  - *Solidifying agent Must mix in last! (in 4C)
+For stacking gel (poured second)
+  - 5.7 mL H2O
+  - 1.65 mL 30% acrylamide (in 4C)
+  - 2.5 mL resolving buffer (1.5M Tris, pH 8.8) *LOWER TRIS*
+  - 100 uL 10% SDS
+  - 60 uL 10% APS
+  - 16 uL TEMED
+  - *Solidifying agent Must mix in last! (in 4C)
+
+Procedure:
+1.	Wash and dry two sets of glass plates as well as two combs (make sure to use 1.5mm glasses and combs)
+2.	Assemble gel pouring stand (make sure the glasses are leveled to prevent leakage)
+3.	Combine reagents for each gel in labelled tubes – DO NOT add APS or TEMED until ready to pour
+4.	Add TEMED and then APS to the tube containing the RESOLVING gel mixture
+5.	Use a transfer pipettes to add resolving gel mixture between plates (leave enough space to add stacking gels)
+6.	Add a layer of 95% ethanol (or methanol) to the top of the resolving gel to remove bubbles and ensure a smooth top to the layer 
+7.	After the leftover resolving gel has polymerized in the tube, pour off ethanol and wash 3 times with ddH2O
+8.	Add TEMED and then APS to the tube containing the STACKING gel mixture
+9.	Use a new transfer pipette to add stacking gel between plates, fill to the top of the plates
+10.	Place comb in between the two plate (make sure it’s 1.5mm combs!)
+11.	Once the stacking gel has polymerized in the tube, the gels can be removed from the pour stand
+12.	Wrap gels with damp paper towels and store in the fridge until ready to use 
+
+* Smaller molecular weight  higher concentration gel 
+-	Make the gel a day before then store in 4 fridge; can store up to a week but should use the day after
+A. Bacterial culture preparation 
+1.	Stress the bacteria with SCFA, the same way as stressing for motility assay (subculture with LB, MOPS, stress and o/n in 5% CO2 chamber for up to 6 hours – until OD  1.00)
+2.	Once the desired OD is reached, spin samples down at 3500 rpm for 10 minutes to pellet the bacteria 
+•	Pour off supernatant into waste container 
+•	Pellet can be stored o/n at -80
+
+B. Sample preparation 
+1.	Remove any excess LB from pellets by washing it twice with 10mL PBS (1x) 
+2.	Re-suspend in 500L 1x SDS loading buffer 
+Recipe for 4x stock SDS loading buffer (10mL; mbionet)
+4mL 	Glycerol (100%) 
+4.8mL 	0.5M Tris HCl (pH 6.8)
+0.8g 	SDS
+4mg 	Bromophenol blue
+0.5mL 	B-mercaptoethanol
+0.7mL 	H2O
+* add 30mL ddH2O to make it a 1x solution 
+3.	Boil for 10 minutes at 95
+4.	Syringe
+•	Use 27 gage needle with 1mL syringe to shear DNA 
+•	Shearing DNA 10x then wash the needle with ddH20 (5-7x)
+•	Use the same but washed needled and repeat the shearing with other samples
+5.	Store in -20 until ready to use
+
+C. SDS-PAGE
+1.	Spin them in the microcentrifuge for 10 minutes at 12000rpm to spin down debris
+2.	Ensure there is no leaking of new running buffer form the inner chamber, add used running buffer to the outer chamber 
+•	Use a tray that has 1&2 markings; doesn’t leak while other tanks tend to leak
+•	Run 2 gels in the beginning, if you only have 1 gel, use the buffer dam
+•	Run 2 sets of samples on 10 well and for coomassie  can use 1 set since staining for all proteins 
+•	Short glass face inside/middle of the tank
+3.	Load appropriate volumes of each sample such that all lanes contain the same amount of protein 
+•	BLUeye prestained protein ladder = 5L & Sample = 15 L (both in -20)
+•	Make sure that you have an optimal view of the wells when loading. Load gels slowly and if expelling all of it out (i.e. 2nd stop), make sure to do it very slowly. Do not tilt your pipettes, always straight on top of the wells or else it may leak into other wells.
+4.	Place the lid on the apparatus, making sure the correct wires are attached to the correct electrode 
+5.	Run the gel for 45 minutes for 70V (constant voltage) to move the proteins through the stacking gel (can run at 70V for the whole stacking and separating/resolving gel but would take much longer). Make sure all samples go through the stacking gel before increasing the voltage for the resolving gel. 
+6.	Change the voltage to 120V and run the gel for  2 hours 20 minutes until the tracking dye has begun to leak out into the outer chamber 
+* dNAK = 70kDa & FliC = 60kDa
+* Once the dye is approaching the end of the gel, begin to assemble the “transfer cassette” as described in the next section 
+
+D. Transfer
+1.	Cut 1 PVDF membrane and 2 blotting papers for each Western blot to be completed 
+•	The membrane should be slightly larger than the SDS-PAGE gel, and the blotting papers a bit larger than the membrane
+•	Cut off the top left corner of the blot – this will allow you to know which side of the membrane the proteins have been transferred
+2.	Place a small amount of ice-cold transfer buffer in a transfer container 
+3.	Activate the membrane by removing the paper backing from both sides and completely saturating  it with methanol, then rinse with ddH2O and place in the transfer buffer 
+•	Also place the blotting papers in the transfer buffer 
+•	During this process, keep the gels in the running buffer to prevent drying
+•	Transfer buffer kept in fridge, must be cold
+4.	Open the transfer cassette apparatus and place one black filter (i.e. sponge) on the either side of the cassette 
+•	On the clear side of the cassette place first a blotting paper and then the membrane 
+•	Protein from black to red & current from red to black 
+•	White side of the cassette against red electrode and black side of the cassette against black electrode 
+5.	Remove the gel from between the glass plates, cut off the stacking gel, and carefully place the gel onto the membrane
+•	Carefully place the second blotting paper on top of the gel and smooth out any air bubbles
+•	Place the second black filter (i.e. sponge) on top of the blotting paper and close the transfer cassette
+•	If only 1 blot is being done, 2 transfer cassettes must be assembled. The second cassette is comprised only the cassette and the two black filters
+6.	Place both transfer cassettes into the cassette holder and place in the electrophoresis apparatus
+•	Include the ice tray in the apparatus
+•	Fill the tank with ice-cold transfer buffer – hold down the ice tray while pouring in the transfer buffer
+•	Place the lid on the apparatus, making sure the correct wires are attached to the correct electrode
+7.	Run the transfer for 2 hours and minimum 90V (constant)
+8.	After 2 hours, carefully open the cassette (clear side up) and without adjusting its position lift the corner of the membrane closest to the ladder
+•	The transfer is successful if the ladder has been mostly transferred out of the gel and onto the membrane 
+
+E. Blocking
+1.	Before the transfer is complete make 10mL 5% skimmed milk TBST 
+•	0.5g skimmed milk powder + 10mL TBST (1x)
+2.	After transfer is complete, place the membrane in a clean empty square plates and pour 10mL 5% skimmed milk TBST over the membrane 
+•	Minimum 1 hour blocking or o/n at 4 with shaking 
+
+F. Primary antibodies
+1.	Pour off “milk” and do a quick wash with 10mL TBST
+2.	If 2 sets of samples were blotted on 1 membrane, must be cut in half to be incubated in different primary antibodies 
+3.	Antibody mixtures (DO NOT VORTEX):
+•	FliC primary: 0.5g skim milk + 10mL TBST + FliC antibody (20L for 1/500 dilution or  10L for 1/1000 dilution)
+•	dNAK: 0.5g skim milk + 10mL TBST +  1L dNAK (1/10,000 dilution)
+4.	Move the membranes to separate, labelled square plates and pour the diluted primary antibodies into the container (do NOT throw out the tubes that contained the antibody mixtures because antibodies are reused)
+•	Incubate the membrane o/n at 4 with shaking (minimum 1 hour) 
+
+G. Secondary antibodies
+1.	After o/n incubation with primary antibodies, the membrane must be washed with 1x TBST
+•	Do NOT pour off primary antibodies, they can be used again with another Western blot. Instead remove the solution with a pipette and stores at 4 
+•	Wash quickly 3 times followed by:
+5 min, 5 min, 10 min, 10 min, 10 min or 30 min washes (3x)
+2.	Move the membrane to another clean square plates then pour the diluted secondary antibodies into the container
+•	2◦ FliC antibody: donkey anti-rabbit  (1/10,000 dilution) = 1L antibody with 10mL TBST
+•	2◦ dNAK antibody: goat anti-mouse (1/10,000 dilution) = 1L antibody with 10mL TBST
+3.	Incubate the blot with the secondary antibodies for 1 hour at room temperature (crucial that it’s only 1 hour) with shaking
+4.	After incubation with secondary antibodies, the membrane must be washed with 1x TBST (3 quick washes followed by 30 min washes, 3 times with shaking)
+•	Do NOT pour off secondary antibodies, they can be used again with another Western blot. Instead remove the solution with a pipette and stores at 4
+
